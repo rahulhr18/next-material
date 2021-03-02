@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Next JS training matches snapshot 1`] = `
+<div
+  className="makeStyles-wrapper-1"
+  id="about-training"
+>
+  <div
+    className="makeStyles-container-2"
+  >
+    <div
+      className="makeStyles-caresection-3"
+    >
+      <h1>
+        Next.js Training
+      </h1>
+      <h4>
+        Training Module
+      </h4>
+    </div>
+  </div>
+</div>
+`;
